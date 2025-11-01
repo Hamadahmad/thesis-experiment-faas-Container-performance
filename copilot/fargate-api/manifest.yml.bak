@@ -1,0 +1,20 @@
+name: fargate-api
+type: Load Balanced Web Service
+
+image:
+  build: ./Dockerfile
+  port: 8080
+  # Force a widely compatible image on Fargate even from an M1 Mac
+  platform: linux/amd64
+
+http:
+  path: '/'
+  healthcheck:
+    path: '/api/ping'
+
+cpu: 256          # 0.25 vCPU
+memory: 512       # 0.5 GB
+count: 1
+
+variables:
+  SERVICE_NAME: "fargate"

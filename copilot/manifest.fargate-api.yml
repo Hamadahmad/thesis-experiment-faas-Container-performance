@@ -1,0 +1,19 @@
+
+name: fargate-api
+type: Load Balanced Web Service
+
+image:
+  build: ./Dockerfile
+  port: 8080
+
+http:
+  path: '/'
+  healthcheck:
+    path: '/api/ping'
+
+cpu: 256
+memory: 512
+count: 1
+
+variables:
+  SERVICE_NAME: "fargate"
