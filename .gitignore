@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Lambda / build artifacts
+lambda_pkg/
+function.zip
+lambda.zip
+
+# Data & logs
+data/*.json
+data/*.csv
+response.json
+
+# AWS credentials
+*.pem
+.env
+.aws/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
