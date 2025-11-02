@@ -104,6 +104,16 @@ export FARGATE_URL="https://<alb-endpoint>.eu-north-1.elb.amazonaws.com"
 
 k6 outputs JSON files to `data/<platform>/<date>/<timestamp>_<test>.json`.
 
+###Optional Fargate Starting and Stoping Mixed Script execution
+
+```bash
+./scripts/fargate-start.sh
+./scripts/run_test.sh fargate warm  $FARGATE_URL
+./scripts/run_test.sh fargate cold  $FARGATE_URL
+./scripts/run_test.sh fargate mixed $FARGATE_URL
+./scripts/fargate-stop.sh
+
+```
 ---
 
 ##  4. NEW — Cost-Control Scripts for Fargate
