@@ -5,6 +5,7 @@ import { sleep, check } from "k6";
 export const options = {
   vus: 1,
   iterations: 10,
+  summaryTrendStats: ["min","p(50)","p(90)","p(95)","p(99)","max","avg"],
 };
 
 const BASE_URL = __ENV.TARGET; // runner passes

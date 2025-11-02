@@ -3,7 +3,8 @@ import { sleep, check } from "k6";
 
 export const options = {
   vus: 5,
-  iterations: 100,
+  iterations: 150,
+    summaryTrendStats: ["min","p(50)","p(90)","p(95)","p(99)","max","avg"],
 };
 
 const BASE_URL = __ENV.TARGET;
