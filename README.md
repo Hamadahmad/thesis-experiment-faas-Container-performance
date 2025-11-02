@@ -88,9 +88,11 @@ export LAMBDA_URL="https://<api-id>.execute-api.eu-north-1.amazonaws.com"
 ```
 ### Fargate Simple
 ```bash
-copilot init --app thesis-exp --name fargate-api --type "Load Balanced Web Service"   --dockerfile ./Dockerfile --port 8080
-copilot env init --name prod --region eu-north-1
-copilot svc deploy --name fargate-api --env prod
+FARGATE_URL="http://...elb.amazonaws.com"
+
+k6 run -e TARGET=$FARGATE_URL k6/warm.js  --out json=data/k6_fargate_warm.json
+
+k6 run -e TARGET=$FARGATE_URL k6/mixed.js --out json=data/k6_fargate_mixed.json
 ```
 ### Fargate Script
 
