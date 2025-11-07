@@ -1,0 +1,125 @@
+@timestamp,@message,@logStream,@log
+2025-11-01 11:21:53.628,"END RequestId: f81d1248-57bf-4c10-959e-1cde296b759d
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:21:53.628,"REPORT RequestId: f81d1248-57bf-4c10-959e-1cde296b759d	Duration: 1.57 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:21:53.626,"START RequestId: f81d1248-57bf-4c10-959e-1cde296b759d Version: $LATEST
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:21:23.563,"END RequestId: b0663b5f-652c-4189-95a7-d8e615f126d5
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:21:23.563,"REPORT RequestId: b0663b5f-652c-4189-95a7-d8e615f126d5	Duration: 20.01 ms	Billed Duration: 21 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:21:23.541,"START RequestId: b0663b5f-652c-4189-95a7-d8e615f126d5 Version: $LATEST
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:20:53.480,"END RequestId: 7566e7cd-7884-41b3-8252-e97fcc2eadf7
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:20:53.480,"REPORT RequestId: 7566e7cd-7884-41b3-8252-e97fcc2eadf7	Duration: 2.06 ms	Billed Duration: 3 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:20:53.463,"START RequestId: 7566e7cd-7884-41b3-8252-e97fcc2eadf7 Version: $LATEST
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:20:23.382,"END RequestId: ea7b11be-d3da-4064-b9e5-cfe0c820fe70
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:20:23.382,"REPORT RequestId: ea7b11be-d3da-4064-b9e5-cfe0c820fe70	Duration: 8.52 ms	Billed Duration: 9 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:20:23.373,"START RequestId: ea7b11be-d3da-4064-b9e5-cfe0c820fe70 Version: $LATEST
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:19:53.303,"REPORT RequestId: 7988a73d-2850-4bd2-9446-7ce163d6ecc8	Duration: 1.56 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:19:53.302,"END RequestId: 7988a73d-2850-4bd2-9446-7ce163d6ecc8
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:19:53.301,"START RequestId: 7988a73d-2850-4bd2-9446-7ce163d6ecc8 Version: $LATEST
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:19:23.241,"END RequestId: c0b8df64-75c2-4bc3-8526-bf2ff65dcde8
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:19:23.241,"REPORT RequestId: c0b8df64-75c2-4bc3-8526-bf2ff65dcde8	Duration: 20.16 ms	Billed Duration: 21 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:19:23.221,"START RequestId: c0b8df64-75c2-4bc3-8526-bf2ff65dcde8 Version: $LATEST
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:18:53.126,"END RequestId: ff102485-9faf-4cc7-9d80-c6362f2e4487
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:18:53.126,"REPORT RequestId: ff102485-9faf-4cc7-9d80-c6362f2e4487	Duration: 1.71 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:18:53.124,"START RequestId: ff102485-9faf-4cc7-9d80-c6362f2e4487 Version: $LATEST
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:18:23.061,"END RequestId: b526707a-3131-44c1-85f0-c7b3721bc024
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:18:23.061,"REPORT RequestId: b526707a-3131-44c1-85f0-c7b3721bc024	Duration: 14.21 ms	Billed Duration: 15 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:18:23.046,"START RequestId: b526707a-3131-44c1-85f0-c7b3721bc024 Version: $LATEST
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:17:52.945,"END RequestId: 88911531-7422-4b3a-87be-71c371e6d2f2
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:17:52.945,"REPORT RequestId: 88911531-7422-4b3a-87be-71c371e6d2f2	Duration: 1.57 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:17:52.943,"START RequestId: 88911531-7422-4b3a-87be-71c371e6d2f2 Version: $LATEST
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:17:22.857,"END RequestId: 96af3dbc-c6cc-49f9-8a99-e636bd4fea3b
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:17:22.857,"REPORT RequestId: 96af3dbc-c6cc-49f9-8a99-e636bd4fea3b	Duration: 1.92 ms	Billed Duration: 92 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	Init Duration: 89.51 ms	
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:17:22.854,"START RequestId: 96af3dbc-c6cc-49f9-8a99-e636bd4fea3b Version: $LATEST
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:17:22.761,"INIT_START Runtime Version: python:3.12.v89	Runtime Version ARN: arn:aws:lambda:eu-north-1::runtime:644f999c44288c3dd580a0b58d0576fe347ce4d089106e2c52ed35b626e0fb3c
+",2025/11/01/[$LATEST]023907bc33e446b3bdbbdbf27790820b,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:07:18.621,"END RequestId: 1177f0af-8f0a-4e8d-aa71-10aa5904dff0
+",2025/11/01/[$LATEST]a0b17acdd3a54930bd6fbb7b234aa4cc,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:07:18.621,"REPORT RequestId: 1177f0af-8f0a-4e8d-aa71-10aa5904dff0	Duration: 8.70 ms	Billed Duration: 9 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	
+",2025/11/01/[$LATEST]a0b17acdd3a54930bd6fbb7b234aa4cc,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:07:18.612,"START RequestId: 1177f0af-8f0a-4e8d-aa71-10aa5904dff0 Version: $LATEST
+",2025/11/01/[$LATEST]a0b17acdd3a54930bd6fbb7b234aa4cc,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:04:18.519,"END RequestId: 3a65e604-103c-4160-93c1-fc568b580762
+",2025/11/01/[$LATEST]a0b17acdd3a54930bd6fbb7b234aa4cc,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:04:18.519,"REPORT RequestId: 3a65e604-103c-4160-93c1-fc568b580762	Duration: 1.51 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	
+",2025/11/01/[$LATEST]a0b17acdd3a54930bd6fbb7b234aa4cc,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:04:18.516,"START RequestId: 3a65e604-103c-4160-93c1-fc568b580762 Version: $LATEST
+",2025/11/01/[$LATEST]a0b17acdd3a54930bd6fbb7b234aa4cc,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:01:18.440,"END RequestId: d99b635e-1baa-453a-8606-1ea7ad79b347
+",2025/11/01/[$LATEST]a0b17acdd3a54930bd6fbb7b234aa4cc,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:01:18.440,"REPORT RequestId: d99b635e-1baa-453a-8606-1ea7ad79b347	Duration: 27.81 ms	Billed Duration: 28 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	
+",2025/11/01/[$LATEST]a0b17acdd3a54930bd6fbb7b234aa4cc,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 11:01:18.412,"START RequestId: d99b635e-1baa-453a-8606-1ea7ad79b347 Version: $LATEST
+",2025/11/01/[$LATEST]a0b17acdd3a54930bd6fbb7b234aa4cc,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:58:18.334,"END RequestId: f772f454-4ca8-4b42-b3b5-4c67c68fdca0
+",2025/11/01/[$LATEST]a0b17acdd3a54930bd6fbb7b234aa4cc,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:58:18.334,"REPORT RequestId: f772f454-4ca8-4b42-b3b5-4c67c68fdca0	Duration: 1.97 ms	Billed Duration: 89 ms	Memory Size: 128 MB	Max Memory Used: 36 MB	Init Duration: 86.70 ms	
+",2025/11/01/[$LATEST]a0b17acdd3a54930bd6fbb7b234aa4cc,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:58:18.331,"START RequestId: f772f454-4ca8-4b42-b3b5-4c67c68fdca0 Version: $LATEST
+",2025/11/01/[$LATEST]a0b17acdd3a54930bd6fbb7b234aa4cc,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:58:18.241,"INIT_START Runtime Version: python:3.12.v89	Runtime Version ARN: arn:aws:lambda:eu-north-1::runtime:644f999c44288c3dd580a0b58d0576fe347ce4d089106e2c52ed35b626e0fb3c
+",2025/11/01/[$LATEST]a0b17acdd3a54930bd6fbb7b234aa4cc,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:41:33.859,"END RequestId: 19ed6f13-9347-40c9-95d0-347dc0111287
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:41:33.859,"REPORT RequestId: 19ed6f13-9347-40c9-95d0-347dc0111287	Duration: 15.27 ms	Billed Duration: 16 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:41:33.843,"START RequestId: 19ed6f13-9347-40c9-95d0-347dc0111287 Version: $LATEST
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:48.069,"END RequestId: 4a87f006-0086-48f1-9739-6a0eb621a104
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:48.069,"REPORT RequestId: 4a87f006-0086-48f1-9739-6a0eb621a104	Duration: 1.35 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:48.067,"START RequestId: 4a87f006-0086-48f1-9739-6a0eb621a104 Version: $LATEST
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:47.892,"END RequestId: 3b52b551-5987-4315-b7c4-2e1355a86ec0
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:47.892,"REPORT RequestId: 3b52b551-5987-4315-b7c4-2e1355a86ec0	Duration: 1.44 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:47.890,"START RequestId: 3b52b551-5987-4315-b7c4-2e1355a86ec0 Version: $LATEST
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:47.698,"END RequestId: 401fadf0-72a8-463e-a0ad-733a648694fb
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:47.698,"REPORT RequestId: 401fadf0-72a8-463e-a0ad-733a648694fb	Duration: 1.73 ms	Billed Duration: 2 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:47.683,"START RequestId: 401fadf0-72a8-463e-a0ad-733a648694fb Version: $LATEST
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:47.520,"END RequestId: 27071bf7-3d60-4b0e-ba8d-1891ced52f07
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:47.520,"REPORT RequestId: 27071bf7-3d60-4b0e-ba8d-1891ced52f07	Duration: 18.28 ms	Billed Duration: 19 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:47.501,"START RequestId: 27071bf7-3d60-4b0e-ba8d-1891ced52f07 Version: $LATEST
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:47.359,"END RequestId: 72cd8c23-6900-43b0-bbfd-25eed53698f3
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:47.359,"REPORT RequestId: 72cd8c23-6900-43b0-bbfd-25eed53698f3	Duration: 19.32 ms	Billed Duration: 20 ms	Memory Size: 128 MB	Max Memory Used: 37 MB	
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
+2025-11-01 10:40:47.340,"START RequestId: 72cd8c23-6900-43b0-bbfd-25eed53698f3 Version: $LATEST
+",2025/11/01/[$LATEST]a2ec3e90023d458cb5358962d4004f79,623980722470:/aws/lambda/thesis-faas-py
