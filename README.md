@@ -1,4 +1,4 @@
-# Thesis Experiment — Performance Evaluation of AWS Lambda (FaaS) vs Fargate (Container)
+ # Thesis Experiment — Performance Evaluation of AWS Lambda (FaaS) vs Fargate (Container)
 
 This repository contains all resources used for the performance and cost
 evaluation experiments of **Function-as-a-Service (AWS Lambda)** and
@@ -284,5 +284,4 @@ copilot env delete --name prod
 
 ---
 
-© 2025 Hamaad Ahmad — Karelia UAS  
 All experiments conducted in **eu-north-1 (Stockholm)** region.
